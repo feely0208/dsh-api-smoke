@@ -1,0 +1,4 @@
+# @deepwhale-cn/dsh-api-smoke 的组合层
+- insert:
+    - id: api-smoke
+      name: '@deepwhale-cn/dsh-api-smoke'
